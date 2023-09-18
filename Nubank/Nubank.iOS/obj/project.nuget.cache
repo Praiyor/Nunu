@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i35p4Bu21YpVHZbmOfLW9kT2m9HH0icxWgK3OOJp7dcj8XLHZzgffkMNVYd2/JNoJF4h7HO04m3nJ3kBWwXOxg==",
+  "success": true,
+  "projectFilePath": "D:\\Vsrepo\\Nubank\\Nubank\\Nubank.iOS\\Nubank.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\igori\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\igori\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\igori\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

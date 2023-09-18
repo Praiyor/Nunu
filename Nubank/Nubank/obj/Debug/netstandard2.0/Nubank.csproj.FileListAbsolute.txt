@@ -1,0 +1,15 @@
+D:\Vsrepo\Nubank\Nubank\Nubank\bin\Debug\netstandard2.0\Nubank.deps.json
+D:\Vsrepo\Nubank\Nubank\Nubank\bin\Debug\netstandard2.0\Nubank.dll
+D:\Vsrepo\Nubank\Nubank\Nubank\bin\Debug\netstandard2.0\ref\Nubank.dll
+D:\Vsrepo\Nubank\Nubank\Nubank\bin\Debug\netstandard2.0\Nubank.pdb
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\Nubank.csproj.AssemblyReference.cache
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\Nubank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\Nubank.AssemblyInfoInputs.cache
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\Nubank.AssemblyInfo.cs
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\Nubank.csproj.CoreCompileInputs.cache
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\Nubank.dll
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\refint\Nubank.dll
+D:\Vsrepo\Nubank\Nubank\Nubank\obj\Debug\netstandard2.0\Nubank.pdb
